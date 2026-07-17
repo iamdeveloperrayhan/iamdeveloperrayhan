@@ -41,11 +41,11 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=iamdeveloperrayhan&style=for-the-badge&color=7C3AED)
+![https://github.com/iamdeveloperrayhan](https://komarev.com/ghpvc/?username=iamdeveloperrayhan&style=for-the-badge&color=7C3AED)
 
-![](https://img.shields.io/github/followers/iamdeveloperrayhan?style=for-the-badge&color=6D28D9)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/github/followers/iamdeveloperrayhan?style=for-the-badge&color=6D28D9)
 
-![](https://img.shields.io/github/stars/iamdeveloperrayhan?style=for-the-badge&color=4F46E5)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/github/stars/iamdeveloperrayhan?style=for-the-badge&color=4F46E5)
 
 </div>
 
@@ -497,9 +497,9 @@ As a Full Stack Web Developer, I specialize in designing and developing scalable
 
 <p align="center">
 
-![](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </p>
 
@@ -509,9 +509,9 @@ As a Full Stack Web Developer, I specialize in designing and developing scalable
 
 <p align="center">
 
-![](https://img.shields.io/badge/Oracle-Java_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/badge/Oracle-Java_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-![](https://img.shields.io/badge/Oracle-Database-CC0000?style=for-the-badge&logo=oracle&logoColor=white)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/badge/Oracle-Database-CC0000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </p>
 
@@ -521,9 +521,9 @@ As a Full Stack Web Developer, I specialize in designing and developing scalable
 
 <p align="center">
 
-![](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 
-![](https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </p>
 
@@ -533,9 +533,9 @@ As a Full Stack Web Developer, I specialize in designing and developing scalable
 
 <p align="center">
 
-![](https://img.shields.io/badge/NPTEL-Programming-6D28D9?style=for-the-badge)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/badge/NPTEL-Programming-6D28D9?style=for-the-badge)
 
-![](https://img.shields.io/badge/NPTEL-Software_Engineering-7C3AED?style=for-the-badge)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/badge/NPTEL-Software_Engineering-7C3AED?style=for-the-badge)
 
 </p>
 
@@ -572,7 +572,11 @@ My long-term goal is to become a **Senior Software Engineer** specializing in **
 
 ---
 
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/iamdeveloperrayhan/iamdeveloperrayhan/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 <!-- ========================================================= -->
 <!--          Current Focus • Connect • Footer                 -->
