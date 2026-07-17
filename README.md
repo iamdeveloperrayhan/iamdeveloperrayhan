@@ -1,5 +1,4 @@
 <!-- ========================================================= -->
-<!--                 GitHub Profile README - PART 1             -->
 <!--          Developer Rayhan | Enterprise Edition            -->
 <!-- ========================================================= -->
 
@@ -13,14 +12,14 @@
 
 <br><br>
 
-![](https://img.shields.io/badge/Software_Engineer-Professional-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/Python-Django-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/React-JavaScript-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/REST_API-Developer-4338CA?style=for-the-badge)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/badge/Software_Engineer-Professional-6D28D9?style=for-the-badge)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/badge/Python-Django-4F46E5?style=for-the-badge)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/badge/React-JavaScript-7C3AED?style=for-the-badge)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/badge/REST_API-Developer-4338CA?style=for-the-badge)
 
 <br>
 
-![](https://img.shields.io/badge/Location-Faridpur,_Dhaka,_Bangladesh-6D28D9?style=flat-square)
+![https://github.com/iamdeveloperrayhan](https://img.shields.io/badge/Location-Faridpur,_Dhaka,_Bangladesh-6D28D9?style=flat-square)
 
 <br><br>
 
@@ -212,11 +211,19 @@ I have around **3–4 years** of development experience working on backend syste
 ---
 
 <details>
-<summary><b>📦 Your_Project_Name_01</b></summary>
+<summary><b>📦 django-ecommerce-store</b></summary>
 
 ### Project Overview
 
-A production-ready full stack application built with modern engineering practices, focusing on scalability, maintainability, performance, and security.
+Welcome to my Django E-Commerce Website.
+
+This project is a complete Full Stack E-Commerce Web Application built using the Django Framework with a modern, responsive, and user-friendly interface.
+
+The application allows customers to browse products, add items to their shopping cart, place secure orders, complete online payments through Stripe, and manage their accounts with ease.
+
+The project follows a modular Django architecture by separating functionalities into multiple reusable apps, making the code clean, scalable, and easy to maintain.
+
+Every sensitive configuration such as API Keys, Database Credentials, and Django Secret Keys are securely managed using a .env file.
 
 | Category | Details |
 |----------|---------|
@@ -225,7 +232,7 @@ A production-ready full stack application built with modern engineering practice
 | **Performance** | Optimized API Response |
 | **Security** | JWT Authentication |
 | **Impact** | High Productivity |
-| **Repository** | `https://github.com/iamdeveloperrayhan/your-project-name` |
+| **Repository** | `https://github.com/iamdeveloperrayhan/django-ecommerce-store` |
 
 ### Highlights
 
@@ -243,11 +250,13 @@ A production-ready full stack application built with modern engineering practice
 ---
 
 <details>
-<summary><b>🛒 Your_Project_Name_02</b></summary>
+<summary><b>🛒 django-ecommerce-frontend</b></summary>
 
 ### Project Overview
 
-A scalable web platform designed with reusable components and optimized backend services to provide an efficient user experience.
+This project is a modern and responsive E-Commerce Frontend Website developed usingBootstrap, HTML, CSS, and JavaScript.
+
+It focuses on creating a clean shopping experience with responsive layouts and user-friendly design.
 
 | Category | Details |
 |----------|---------|
@@ -256,7 +265,7 @@ A scalable web platform designed with reusable components and optimized backend 
 | **Performance** | Cached APIs |
 | **Security** | Token Authentication |
 | **Impact** | Business Automation |
-| **Repository** | `https://github.com/iamdeveloperrayhan/your-project-name` |
+| **Repository** | `https://github.com/iamdeveloperrayhan/django-ecommerce-frontend` |
 
 ### Highlights
 
@@ -274,10 +283,22 @@ A scalable web platform designed with reusable components and optimized backend 
 ---
 
 <details>
-<summary><b>🏥 Your_Project_Name_03</b></summary>
+<summary><b>🏥 django-rest-api</b></summary>
 
 ### Project Overview
+This project is a RESTful API built with Django REST Framework (DRF).
 
+It provides a clean and secure API for managing books with modern backend features including:
+
+-🔍 Search
+-📑 Filtering
+-↕️ Ordering
+-📄 Pagination
+-🔐 JWT Authentication
+-🚦 API Throttling
+-🛡️ Permission Control
+
+The API is designed following REST principles and can easily be integrated with Web, Mobile or Desktop applications.
 A backend-focused application emphasizing API design, security, and maintainability using Django REST Framework.
 
 | Category | Details |
@@ -287,7 +308,7 @@ A backend-focused application emphasizing API design, security, and maintainabil
 | **Performance** | High Throughput APIs |
 | **Security** | JWT + Permissions |
 | **Impact** | Workflow Automation |
-| **Repository** | `https://github.com/iamdeveloperrayhan/your-project-name` |
+| **Repository** | `https://github.com/iamdeveloperrayhan/django-rest-api` |
 
 ### Highlights
 
@@ -305,11 +326,17 @@ A backend-focused application emphasizing API design, security, and maintainabil
 ---
 
 <details>
-<summary><b>🛍️ Your_Project_Name_04</b></summary>
+<summary><b>🛍️ hospital-appointment-management-api</b></summary>
 
 ### Project Overview
 
-A modern eCommerce platform engineered with scalable backend architecture and interactive frontend components.
+Hospital Appointment Management API is a production-ready backend system built with Django REST Framework.
+
+The project provides a complete RESTful API for managing hospital appointments, doctors, patients, billing, authentication, and dashboard analytics.
+
+It follows secure authentication using JWT and role-based authorization for Admin, Doctor, and Patient.
+
+The architecture is modular, clean, scalable, and follows REST API best practices.
 
 | Category | Details |
 |----------|---------|
@@ -317,8 +344,8 @@ A modern eCommerce platform engineered with scalable backend architecture and in
 | **Scale** | Enterprise |
 | **Performance** | Optimized Database Queries |
 | **Security** | Secure Authentication |
-| **Impact** | Digital Commerce |
-| **Repository** | `https://github.com/iamdeveloperrayhan/your-project-name` |
+| **Impact** | Digital Hospital Management |
+| **Repository** | `https://github.com/iamdeveloperrayhan/hospital-appointment-management-api` |
 
 ### Highlights
 
@@ -336,20 +363,21 @@ A modern eCommerce platform engineered with scalable backend architecture and in
 ---
 
 <details>
-<summary><b>⚡ Your_Project_Name_05</b></summary>
+<summary><b>⚡ interactive-clock</b></summary>
 
 ### Project Overview
 
-A high-performance backend application built using modern API standards and software engineering best practices.
+A modern and customizable Analog, Digital Clock UI built using HTML, CSS, and JavaScript.
+
+This project includes interactive features like theme customization, clock size adjustment, and dynamic color changing.
 
 | Category | Details |
 |----------|---------|
-| **Stack** | FastAPI, PostgreSQL |
 | **Scale** | Production Ready |
-| **Performance** | Ultra Fast APIs |
-| **Security** | OAuth / JWT |
+| **Performance** | Ultra Fast |
+| **Security** | NO Need |
 | **Impact** | Enterprise Solution |
-| **Repository** | `https://github.com/iamdeveloperrayhan/your-project-name` |
+| **Repository** | `https://github.com/iamdeveloperrayhan/interactive-clock` |
 
 ### Highlights
 
@@ -544,176 +572,6 @@ My long-term goal is to become a **Senior Software Engineer** specializing in **
 
 ---
 
-<!-- ========================================================= -->
-<!--     Coding Profiles • GitHub Analytics • Contributions    -->
-<!-- ========================================================= -->
-
-# 💻 Coding Profiles
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Coming_Soon-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Coming_Soon-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Coming_Soon-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coming_Soon-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</div>
-
-> **Note:** Update these links with your actual coding profile URLs later.
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdeveloperrayhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeveloperrayhan&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=iamdeveloperrayhan&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Statistics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamdeveloperrayhan&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamdeveloperrayhan&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamdeveloperrayhan&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamdeveloperrayhan&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📉 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdeveloperrayhan&theme=tokyo-night&hide_border=true&radius=16"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-> **Create this using GitHub Actions after pushing your profile repository.**
-
-<img src="https://raw.githubusercontent.com/iamdeveloperrayhan/iamdeveloperrayhan/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-### GitHub Action Workflow
-
-Create the following file:
-
-```
-.github/workflows/snake.yml
-```
-
-Then use this action:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: iamdeveloperrayhan
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-# 📌 GitHub Overview
-
-<div align="center">
-
-| Metric | Status |
-|:------|:------:|
-| Public Repositories | 🚀 Active |
-| Open Source Contributions | 💜 Growing |
-| Backend Development | ⭐⭐⭐⭐⭐ |
-| Frontend Development | ⭐⭐⭐⭐☆ |
-| API Engineering | ⭐⭐⭐⭐⭐ |
-| Database Design | ⭐⭐⭐⭐☆ |
-| AI Integration | ⭐⭐⭐☆☆ |
-| FastAPI | ⭐⭐⭐⭐☆ |
-| Learning Progress | 📈 Continuous |
-| Collaboration | 🤝 Open |
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 *"Consistency beats intensity. Keep building, keep learning."*
-
-</div>
-
----
 <!-- ========================================================= -->
 <!--          Current Focus • Connect • Footer                 -->
 <!-- ========================================================= -->
