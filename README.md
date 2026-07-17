@@ -572,13 +572,15 @@ My long-term goal is to become a **Senior Software Engineer** specializing in **
 
 ---
 
+<img src="https://raw.githubusercontent.com/iamdeveloperrayhan/iamdeveloperrayhan/output/github-contribution-grid-snake-dark.svg"/>
+
 <!-- ========================================================= -->
 <!--          Current Focus • Connect • Footer                 -->
 <!-- ========================================================= -->
 
 # 🎯 Current Focus
 
-```yaml
+
 Developer: Developer Rayhan
 
 Current_Role:
@@ -616,7 +618,7 @@ Open_To:
   - Remote Engineering Roles
 
 Currently_Available: true
-```
+
 
 ---
 
