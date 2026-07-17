@@ -577,6 +577,17 @@ My long-term goal is to become a **Senior Software Engineer** specializing in **
 <img src="https://raw.githubusercontent.com/iamdeveloperrayhan/iamdeveloperrayhan/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+---
+
+# 📉 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdeveloperrayhan&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+---
 
 <!-- ========================================================= -->
 <!--          Current Focus • Connect • Footer                 -->
